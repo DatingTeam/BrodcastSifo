@@ -27,9 +27,7 @@
     "sqlite": "^2.9.1",
     "sqlite3": "^4.0.0",
     "youtube-info": "^1.2.0",
-    "ytdl-core": "^0.20.3",
-    "ascii-art": "^1.4.3",
-    "mathjs": "^5.0.4"
+    "ytdl-core": "^0.20.3"
   },
   "engines": {
     "node": "8.4.0"
